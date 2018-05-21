@@ -19,7 +19,11 @@ Backend : python
 ## Development:
 
 1.Clone this repository.
+
 2.Change the directory.
+
 3.Main file is entertainment_center.py file.
+
 4.If we run the entertainment_center.py file on python2.7 idle.
+
 5.Html file is created and opens in your default browser.
